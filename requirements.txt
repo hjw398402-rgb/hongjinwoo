@@ -1,4 +1,5 @@
 torch
+torchvision
 transformers
 streamlit
 huggingface_hub
