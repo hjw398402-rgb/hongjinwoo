@@ -6,7 +6,7 @@ import torch.nn.functional as F
 # ─────────────────────────────────────────
 # 설정
 # ─────────────────────────────────────────
-MODEL_PATH = "C:/workspace/finalproject/best_model_v4"
+MODEL_PATH = "Jinwoo1251a/best_model_v4"
 
 
 # ─────────────────────────────────────────
